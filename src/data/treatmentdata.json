@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Coronary Angioplasty",
+        "type": "Cardiology",
+        "priceStart": "$1000",
+        "priceEnd": "$2000",
+        "iconpath": "../../Assets/Consmetic-surgery.png"
+    },
+    {
+        "id": "2",
+        "name": "Coronary Angioplasty",
+        "type": "Cardiology",
+        "priceStart": "$1000",
+        "priceEnd": "$2000",
+        "iconpath": "../Assets/Consmetic-surgery.png"
+    },
+    {
+        "id": "3",
+        "name": "Coronary Angioplasty",
+        "type": "Cardiology",
+        "priceStart": "$1000",
+        "priceEnd": "$2000",
+        "iconpath": "../Assets/Consmetic-surgery.png"
+    },
+    {
+        "id": "4",
+        "name": "Coronary Angioplasty",
+        "type": "Cardiology",
+        "priceStart": "$1000",
+        "priceEnd": "$2000",
+        "iconpath": "../Assets/Consmetic-surgery.png"
+    },
+    {
+        "id": "5",
+        "name": "Coronary Angioplasty",
+        "type": "Cardiology",
+        "priceStart": "$1000",
+        "priceEnd": "$2000",
+        "iconpath": "../Assets/Consmetic-surgery.png"
+    },
+    {
+        "id": "6",
+        "name": "Coronary Angioplasty",
+        "type": "Cardiology",
+        "priceStart": "$1000",
+        "priceEnd": "$2000",
+        "iconpath": "../Assets/Consmetic-surgery.png"
+    },
+    {
+        "id": "7",
+        "name": "Coronary Angioplasty",
+        "type": "Cardiology",
+        "priceStart": "$1000",
+        "priceEnd": "$2000",
+        "iconpath": "../Assets/Consmetic-surgery.png"
+    },
+    {
+        "id": "8",
+        "name": "Coronary Angioplasty",
+        "type": "Cardiology",
+        "priceStart": "$1000",
+        "priceEnd": "$2000",
+        "iconpath": "../Assets/Consmetic-surgery.png"
+    },
+    {
+        "id": "9",
+        "name": "Coronary Angioplasty",
+        "type": "Cardiology",
+        "priceStart": "$1000",
+        "priceEnd": "$2000",
+        "iconpath": "../Assets/Consmetic-surgery.png"
+    },
+    {
+        "id": "10",
+        "name": "Coronary Angioplasty",
+        "type": "Cardiology",
+        "priceStart": "$1000",
+        "priceEnd": "$2000",
+        "iconpath": "../Assets/Consmetic-surgery.png"
+    }
+]

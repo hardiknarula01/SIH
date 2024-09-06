@@ -1,0 +1,20 @@
+[
+    {
+      "name": "Medanta - The Medicity, Gurgaon",
+      "imageUrl": "https://d1ea147o02h74h.cloudfront.net/hospitals/medanta-opd.jpg",
+      "specialty": "Super Specialty",
+      "contact": "Contact Hospital"
+    },
+    {
+      "name": "BLK-Max Super Speciality Hospital Delhi",
+      "imageUrl": "https://d1ea147o02h74h.cloudfront.net/blk_facade-1-min.jpg",
+      "specialty": "Super Specialty",
+      "contact": "Contact Hospital"
+    },
+    {
+      "name": "Indraprastha Apollo Hospital, New Delhi",
+      "imageUrl": "https://avocure-uploads.s3.amazonaws.com/uploads/clinic/cover_pic_url/1/apollo_indraprastha.jpg",
+      "specialty": "Multi Specialty",
+      "contact": "Contact Hospital"
+    }
+  ]

@@ -1,0 +1,50 @@
+{
+    "picture": "https://via.placeholder.com/150",
+    "name": "Dr. John Doe",
+    "field": "Cardiac Surgeon",
+    "position": "Director",
+    "qualification": "MBBS, MD",
+    "rating": 5,
+    "experience": 20,
+    "surgeries": 1500,
+    "languages": "English, Spanish",
+    "worksAt": "City Hospital",
+    "about": [
+      "Specializes in complex cardiac surgeries.",
+      "Actively involved in medical research and education.",
+      "Received multiple awards for contributions to the field."
+    ],
+    "qualifications": [
+      "MBBS - Bachelor of Medicine, Bachelor of Surgery",
+      "MD - Doctor of Medicine"
+    ],
+    "location":{
+      "hospitalName":"Medanta - The Medicity, Gurgaon",
+      "place":"New Delhi",
+      "speciality":"Super Specialty",
+      "beds":"1230",
+      "about":"Medanta - The Medicity Hospital, Gurgaon, founded by Dr.Naresh Trehan, a world-renowned cardiovascular and cardiothoracic surgeon. It is one of India's largest and most reputed Multi-Super Specialty Health Institutes. The hospital holds NABH and NABL accreditations at the National level & JCI, USA accreditations on an International level."
+    },
+    "testimonials":[{
+      "name": "Aristotles De Almeida",
+      "location": "Namibia",
+      "testimonial": "My son was born with a hearing problem, that’s why we came to India for his treatment, and we are so relieved to be leaving.",
+      "rating": 5,
+      "initials": "AD"
+    },
+    {
+      "name": "Sabato Dennis",
+      "location": "Liberia",
+      "testimonial": "Medanta Hospital was awesome; I went there for my cardiac treatment, and they treated me very well. Thanks a lot to them.",
+      "rating": 5,
+      "initials": "SD"
+    },
+    {
+      "name": "Barbier Marie Noelle",
+      "location": "Mauritius",
+      "testimonial": "Huge thanks to Medanta Hospital for my wife’s cardiac treatment. My experience with this hospital was very positive.",
+      "rating": 4,
+      "initials": "BM"
+    }]
+  }
+  

@@ -1,0 +1,52 @@
+{
+  "doctors": [
+    {
+      "name": "Dr A",
+      "designation": "Cardiac Surgeon",
+      "exp": 10,
+      "hospital": "Medanta Hospital, Gurgaon",
+      "imagePath": "../Assets/profile-1.png",
+      "whatsappLink": ""
+    },
+    {
+      "name": "Dr B",
+      "designation": "Cardiac Surgeon",
+      "exp": 20,
+      "hospital": "Medanta Hospital, Gurgaon",
+      "imagePath": "",
+      "whatsappLink": ""
+    },
+    {
+      "name": "Dr C",
+      "designation": "Cardiac Surgeon",
+      "exp": 30,
+      "hospital": "Medanta Hospital, Gurgaon",
+      "imagePath": "",
+      "whatsappLink": ""
+    },
+    {
+      "name": "Dr D",
+      "designation": "Cardiac Surgeon",
+      "exp": 14,
+      "hospital": "Medanta Hospital, Gurgaon",
+      "imagePath": "",
+      "whatsappLink": ""
+    },
+    {
+      "name": "Dr E",
+      "designation": "Cardiac Surgeon",
+      "exp": 14,
+      "hospital": "Medanta Hospital, Gurgaon",
+      "imagePath": "",
+      "whatsappLink": ""
+    },
+    {
+      "name": "Dr F",
+      "designation": "Cardiac Surgeon",
+      "exp": 14,
+      "hospital": "Medanta Hospital, Gurgaon",
+      "imagePath": "",
+      "whatsappLink": ""
+    }
+  ]
+}

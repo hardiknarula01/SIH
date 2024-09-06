@@ -1,0 +1,290 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  .icon-container{
+    display: none;
+  }
+  .show-form{
+    display:block;
+  }
+  .overflow-show{
+    display: none;
+  }
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .header h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .content-container {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    padding: 50px;
+    flex-direction: column;
+  }
+  
+  .hospital-info {
+    display: flex;
+    flex-direction: column;
+    /* width: 45%; */
+    margin-top: 50px;
+  }
+  .hospital__info__content{
+    display: flex;
+    height: 250px;
+    /* border: 1px solid black; */
+    width: 800px;
+    box-shadow: 0 0px 10px rgba(0, 0, 0, 0.3);
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 20px;
+  }
+  .hospital__info__content__heading{
+    margin: 5px;
+    text-align: center;
+    font-size: 1.2rem;
+    color:#46B7D9;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  .hospital__info__heading{
+    text-align: center;
+    margin-bottom:50px;
+    font-size: 1.5rem;
+    color:#46B7D9;
+    font-family: sans-serif;
+    font-weight: bold;
+  }
+  .location__details__info{
+    display: flex;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-between; */
+    column-gap: 50px;
+  }
+  
+  .image-container {
+        /* width: 100%; */
+        width: 250px;
+        /* height: 200px; */
+        overflow: hidden;
+        /* margin-bottom: 20px; */
+        border-radius: 20px 20px 0px 0px;
+  }
+  
+  .image-container img {
+    width: 100%;
+    height: 180px;
+  }
+  
+  .hospital-details {
+    padding: 20px;
+    border-radius: 5px;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+  }
+  .hospital__info__details{
+    display: flex;
+  }
+  .works__at__content{
+    font-size: small;
+  }
+  .hospital-details h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .location-details {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    column-gap: 10px;
+  }
+  
+  .location-details i {
+    margin-right: 5px;
+  }
+  
+  .location-details span {
+    font-size: 0.85rem;
+    font-weight: normal;
+    color: #939292;
+    font-weight: 700;
+    font-family: sans-serif;
+  }
+  
+  .contact-button {
+    padding: 5px;
+    background-color: #ff7a00;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .form-container {
+    width: 45%;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  .phone-input {
+    display: flex;
+    align-items: center;
+  }
+  
+  .phone-input span {
+    margin-right: 5px;
+  }
+  
+  .submit-button {
+    padding: 10px 20px;
+    background-color: #008CBA;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  @media only screen and (max-width: 600px) {
+    .contact-button{
+      height: 15%;
+    }
+    .location__details__info{
+      align-self: flex-end;
+      /* margin-right: -13px; */
+      column-gap: 5px;
+      margin-top: -10px;
+      margin-right: 5px;
+    }
+    .hospital__info__content{
+      height: 330px;
+      width: 80vw;
+    }
+    .content-container{
+      width:100vw;
+    }
+    .works__at__content{
+      margin-bottom: 10px;
+    }
+    .image-container{
+      display: flex;
+      width: 50%;
+      margin-top: 25%;
+    }
+    .hospital-details{
+      width:50%;
+    }
+    .image-container img{
+      width: 150px;
+      height: 150px;
+      border-radius: 20px;
+    }
+    .testimonials-container{
+      margin: 50px;
+    width: 80vw;
+    }
+    .overflow{
+      width:60vw;
+      padding:10px;
+      box-shadow: 0 0px 10px rgba(0, 0, 0, 0.3);
+      background-color: white;
+      border-radius: 10px;
+      margin-top: -100px;
+    }
+    .overflow-show{
+      text-overflow: clip;
+        display: block;
+        text-align: justify;
+        font-size: 0.9rem;
+        font-family: sans-serif
+    }
+    .overflow-show-lap{
+      display: none;
+    }
+    .icon-container {
+      position: fixed;
+        top: 70vh;
+        right: 5vw;
+        cursor: pointer;
+        background-color: #ff7a00;
+        width: 60px;
+        border-radius: 50%;
+        height: 60px;
+        display: flex;
+        align-items: center;
+        padding: 14px;
+        box-shadow: 0 0px 10px rgba(0, 0, 0, 0.3);
+    }
+    .show-form{
+      display:none;
+    }
+    .sticky-form-container {
+      position: absolute;
+      top: 0;
+      right: 0;
+      background-color: #fff;
+      border: 1px solid #ddd;
+      padding: 10px;
+      width: 300px;
+      z-index: 1;
+    }
+  }
+
+
+
+  .hospital__info__content {
+    height: auto; /* Change from fixed height */
+    max-height: 400px; /* Set a max-height */
+    overflow: auto; /* Allow scrolling if content exceeds max-height */
+  }
+  
+  .hospital-details {
+    width: 100%; /* Take full width */
+    box-sizing: border-box; /* Include padding in width calculation */
+  }
+  
+  .works__at__content {
+    font-size: 0.9rem;
+    overflow: hidden; /* Hide overflow */
+    position: relative; /* For positioning the "Read More" link */
+  }
+  
+  .read-or-hide {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: white;
+    padding: 0 5px;
+  }

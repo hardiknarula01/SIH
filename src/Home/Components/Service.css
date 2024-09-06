@@ -1,0 +1,60 @@
+.service__container{
+    display: flex;
+ justify-content: center;
+ margin: 20px;
+ padding: 20px;
+}
+
+.service__grey__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px 20px 20px;
+    background-color: #f7f7f7;
+    height: 300px;
+    border-radius: 10px;
+  }
+  
+  .service__text__container {
+    flex: 1;
+    padding: 20px;
+  }
+  
+.service__primary__heading{
+    font-size: 1.5rem;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.service__secondary__heading{
+    font-size: 1.0rem;
+  margin-bottom: 10px;
+
+}
+  
+  .button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .service__video__container {
+    flex: 1 1;
+    overflow: hidden;
+    height: 300px;
+    margin: 0;
+    /* bottom: 0; */
+    border-radius: 0px 10px 10px 0px;
+  }
+  
+  .service__video__container video {
+    width: 100%;
+    height: 100%; /* set video height to full container height */
+    object-fit: cover; /* make video fit the container */
+  }
+  video::-webkit-media-controls-fullscreen-button
+{
+        display: none !important;
+}

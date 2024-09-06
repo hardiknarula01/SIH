@@ -1,0 +1,94 @@
+{
+  "countries": [
+    {
+      "name": "India",
+      "image": "./images/taj.jpg",
+      "hospitals": [
+        {
+          "name": "Fortis Memorial Research Institute, Gurgaon",
+          "image": "./images/h10.jpg"
+        },
+        {
+          "name": "Medanta - The Medicity, Gurgaon",
+          "image": "./images/h11.jpg"
+        },
+        {
+          "name": "Artemis Hospital, Gurgaon",
+          "image": "./images/h12.jpg"
+        },
+        {
+          "name": "Fortis Hospital, Mulund, Mumbai",
+          "image": "./images/h9.jpg"
+        },
+        {
+          "name": "Indraprastha Apollo Hospital, New Delhi",
+          "image": "./images/h10.jpg"
+        },
+        {
+          "name": "BLK-Max Super Speciality Hospital, Delhi",
+          "image": "./images/h11.jpg"
+        },
+        {
+          "name": "Kokilaben Dhirubhai Ambani Hospital, Mumbai",
+          "image": "./images/h12.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Turkey",
+      "image": "./images/usaliberty.jpg",
+      "hospitals": [
+        {
+          "name": "American Hospital, Istanbul",
+          "image": "./images/h13.jpg"
+        },
+        {
+          "name": "Hisar Hospital Intercontinental, Istanbul",
+          "image": "./images/h14.jpg"
+        },
+        {
+          "name": "Medicana International Istanbul",
+          "image": "./images/h15.jpg"
+        },
+        {
+          "name": "Medical Park Group, Istanbul",
+          "image": "./images/h16.jpg"
+        },
+        {
+          "name": "Medicana International Istanbul",
+          "image": "./images/h17.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Thailand",
+      "image": "./images/uk.jpg",
+      "hospitals": [
+        {
+          "name": "Bumrungrad International Hospital, Bangkok",
+          "image": "./images/h13.jpg"
+        },
+        {
+          "name": "Bangkok Hospital, Bangkok",
+          "image": "./images/h19.jpg"
+        },
+        {
+          "name": "Vejthani Hospital Bangkok, Thailand",
+          "image": "./images/h20.jpg"
+        },
+        {
+          "name": "Asia Cosmetic Hospital, Thailand",
+          "image": "./images/h21.jpg"
+        },
+        {
+          "name": "BNH Hospital, Bangkok",
+          "image": "./images/h22.jpg"
+        },
+        {
+          "name": "Saint Louis Hospital, Bangkok",
+          "image": "./images/h23.jpg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "iconPath": "../../../../../Assets/Neurology.png",
+        "name": "Neurology",
+        "link": ""
+    },
+    {
+        "iconPath": "../../../../../Assets/Infertility.png",
+        "name": "Infertility",
+        "link": ""
+    },
+    {
+        "iconPath": "../../../../../Assets/Oncology.png",
+        "name": "Oncology",
+        "link": ""
+    },
+    {
+        "iconPath": "../../../../../Assets/Transplant.png",
+        "name": "Transplant",
+        "link": ""
+    },
+    {
+        "iconPath": "../../../../../Assets/Ortho.png",
+        "name": "Orthopedic",
+        "link": ""
+    }
+]

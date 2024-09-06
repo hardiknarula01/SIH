@@ -1,0 +1,44 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "title": "Appointment Form",
+    "type": "object",
+    "properties": {
+      "patientName": {
+        "type": "string",
+        "minLength": 8,
+        "pattern": "^[A-Za-z\\s]+$",
+        "description": "Patient's full name."
+      },
+      "patientNumber": {
+        "type": "string",
+        "minLength": 10,
+        "maxLength": 10,
+        "pattern": "^\\d+$",
+        "description": "Patient's phone number consisting of 10 digits."
+      },
+      "patientGender": {
+        "type": "string",
+        "enum": ["male", "female", "private"],
+        "description": "Patient's gender."
+      },
+      "appointmentTime": {
+        "type": "string",
+        "format": "date-time",
+        "description": "Preferred appointment time."
+      },
+      "preferredMode": {
+        "type": "string",
+        "enum": ["voice", "video"],
+        "description": "Preferred mode of communication."
+      }
+    },
+    "required": [
+      "patientName",
+      "patientNumber",
+      "patientGender",
+      "appointmentTime",
+      "preferredMode"
+    ],
+    "additionalProperties": false
+  }
+  

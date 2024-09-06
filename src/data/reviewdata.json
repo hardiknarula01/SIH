@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "username": "John Doe",
+    "profilePic": "images/p1.jpg",
+    "rating": 4,
+    "date": "2023-06-01",
+    "reviewText": "Great hospital with excellent staff. Highly recommended!"
+  },
+  {
+    "id": 2,
+    "username": "Jane Smith",
+    "profilePic": "/images/p2.jpg",
+    "rating": 5,
+    "date": "2023-06-02",
+    "reviewText": "Outstanding service and care. Very professional!"
+  },
+  {
+    "id": 3,
+    "username": "Michael Johnson",
+    "profilePic": "/images/p6.jpg",
+    "rating": 3,
+    "date": "2023-06-05",
+    "reviewText": "Decent experience overall, but room for improvement in customer service."
+  },
+  {
+    "id": 4,
+    "username": "Emily Brown",
+    "profilePic": "/images/p4.jpg",
+    "rating": 4,
+    "date": "2023-06-10",
+    "reviewText": "Impressed with the facilities and cleanliness. Staff were friendly and helpful."
+  },
+  {
+    "id": 5,
+    "username": "David Wilson",
+    "profilePic": "/images/p3.jpg",
+    "rating": 5,
+    "date": "2023-06-15",
+    "reviewText": "Best hospital experience I've had. Top-notch service!"
+  }
+]
+
+  

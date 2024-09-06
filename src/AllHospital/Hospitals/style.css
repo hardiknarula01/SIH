@@ -1,0 +1,7 @@
+.hospitalcontainer::-webkit-scrollbar{
+    display: none;
+}
+
+.hospitaldiv{
+    box-shadow: 2px 3px 4px gray;
+}
